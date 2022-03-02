@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrius @Matsenas
 - 👀 I’m interested in data science, mathematics, and decentralised networks
-- 🌱 I’m currently working on Stardust Network (https://get.stardust.today) to give everyone full control over their personal data online
+- 🌱 I’m currently working on Stardust Network (https://stardustnetwork.org) to give everyone full control over their personal data online
 - 📫 You can reach me at andrius@stardust.today
 
 <!---
