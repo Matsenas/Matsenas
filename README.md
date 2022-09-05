@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andrius @Matsenas
 - 🛠 Interested in decentralised web, data science and UI/UX
 - 🌱 Product Analyst at NFTPort (https://nftport.xyz) to help developers easily build Web3 apps
-- 🌐 Founder of Stardust Network (https://stardustnetwork.org) eliminate cookie pop-ups and give everyone control of their personal data online
+- 🍪 Founder of Stardust Network (https://stardustnetwork.org) to eliminate all cookie pop-ups from the web
+- 🙋 I like projects that give people control over their personal data
 - 📫 You can reach me at m@tsenas.ee
