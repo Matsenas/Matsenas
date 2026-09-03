@@ -1,1 +1,1 @@
-Researching LLMs at University of Tartu
+Human-Computer Interaction at University of Maryland, College Park
